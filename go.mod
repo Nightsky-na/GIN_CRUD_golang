@@ -1,4 +1,4 @@
-module github.com/Nightsky-na/crud_golang_gin
+module github.com/Nightsky-na/GIN_CRUD_golang
 
 go 1.19
 
